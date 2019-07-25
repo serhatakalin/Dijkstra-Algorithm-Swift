@@ -1,1 +1,2 @@
-Dijkstra-Algorithm-Swift
+## Dijkstra Algorithm Swift
+![Preview](/plan.png)
